@@ -24,7 +24,7 @@ export default function Home() {
           <li> Different layers should have different abstractions</li>
           <li> Design it twice</li>
           <li> Define errors (and special cases) out of existence</li>
-          <li> Software should be designed for ease of reading not ease of writi</li>ng
+          <li> Software should be designed for ease of reading not ease of writing</li>
         </ul>
       </div>
     </main>
